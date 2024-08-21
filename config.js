@@ -203,11 +203,12 @@ Due to her lack of education, Sidra says she was unable to find a job and, given
 
             <h2> Amir - Karachi </h2>
             Thirty-three-year-old Amir is a polio survivor based in Karachi. Unable to finish his higher education due to the financial situation at home, Amir first took up a job as a computer operator before signing up with the polio eradication campaign. He was shoved and slapped during one campaign. In another, a father who refused vaccination to his children threatened to kill Amir if he saw him in the area again. However, Amir said he persisted with the campaign because “it’s very important that we save someone else’s kid even if I was not able to take those drops as a kid”.
+            <br><br>
+             <video source src="./video/AMIR.mp4" type="video/mp4" controls="controls" width="100%" height="auto"/>
             </span>
 
-            <video controls="controls" width="100%" height="auto">
-                    <source src="./video/AMIR.mp4" type="video/mp4" />
-            </video>
+           
+
 
 
 
@@ -239,11 +240,9 @@ Due to her lack of education, Sidra says she was unable to find a job and, given
             Gulnaz’s sister-in-law and niece were shot dead during a polio campaign in 2012.
             She was close to giving up but then told herself that “there will always be obstacles in life when you’re trying to do something good”.
             That thought spurred her on and despite taunts and hooting, Gulnaz stuck to her aim of ensuring she reaches the maximum number of children and that no “innocent flower [child]” ever has to deal with the polio virus.
-            
+             <br><br>
+             <video source src="./video/GULNAZ.mp4" type="video/mp4" controls="controls" width="100%" height="auto"/>
             </span>
-            <video controls="controls" width="100%" height="auto">
-              <source src="./video/GULNAZ.mp4" type="video/mp4" />
-            </video>
             `,
             location: {
                 center: [67.3317119, 25.525162],
