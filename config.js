@@ -298,9 +298,9 @@ Pakistan is one of only two countries in the world where poliovirus is still end
 <br><br>
 The two countries share a 2,611km (1,622 miles) long border.
 <br><br>
-Since 2015, Pakistan has reported 358 polio cases, including eight this year. The figure has come down from the 20,000 that has been reported by officials who add that the numbers are falling due to increased surveillance and sampling and there remains just one local cluster of the poliovirus in Pakistan – the YB3C - cases for which were last discovered in November 2023.
+Since 2015, Pakistan has reported 358 polio cases, including fifteen this year. The figure has come down from the 20,000 that has been reported by officials who add that the numbers are falling due to increased surveillance and sampling and there remains just one local cluster of the poliovirus in Pakistan – the YB3C - cases for which were last discovered in November 2023.
 <br><br>
-<img src="./gfx/pakistanpoliocases_2.png" width="120%" height="auto" alt="photo caption"/>
+<img src="./gfx/number_poliocases.jpg" width="120%" height="auto" alt="photo caption"/>
 <br><br>
 In addition to human cases, wild poliovirus type 1 (WPV1) has frequently been detected in environmental samples taken across the country. This year, WPV1 has been found in 49 of Pakistan’s 166 districts.
 <br><br>
@@ -322,7 +322,7 @@ In 2011, it was reported that a CIA-organised fake vaccination campaign, separat
 <br><br>
 Health authorities in Pakistan have listed seven districts classified as “endemic” in the country. All seven lie in the northwestern Khyber-Pakhtunkhwa province where officials say, the security situation has been the biggest obstacle in reaching the target audience.
 <br><br>
-<img src="./gfx/Interactive_Polio_endemic.png" width="100%" height="auto" alt="photo caption"/>
+<img src="./gfx/polioendemicPK.jpg" width="100%" height="auto" alt="photo caption"/>
 <br><br>
 “There are often events that are political or security related or a decline in programme quality that leads to an increase in the number of under-vaccinated children and then you get an outbreak,” Jafari added.
 <br><br>
@@ -344,6 +344,8 @@ Some polio survivors now working on the campaign do not receive help with transp
 <br><br>
 Just over 1,600km (994 miles) to the north at the Torkham border, one of the main crossing points between Pakistan and Afghanistan, the issues facing these workers remain the same.
 <br><br>
+<img src="./gfx/bordercrossingsAFPAK.jpg" width="120%" height="auto" alt="photo caption"/>
+<br><br>
 The Torkham border point is the main point of transit for travellers and goods between Pakistan and landlocked Afghanistan. A permanent vaccination point has been set up at the border while health workers are also present at security checkpoints leading to the border.
 <br><br>
 A female worker administering vaccination at the border point lamented the lack of facilities for women at the location, including toilets and prayer rooms, “further exacerbating the challenges we already face while working in a male-dominated space.
@@ -353,6 +355,8 @@ A female worker administering vaccination at the border point lamented the lack 
 From 2013 to 2023, authorities administered more than 300 million doses of oral vaccine annually with the help of over 350,000 vaccinators. More than $9.3 billion were spent on the efforts in that time period. 
 <br><br>
 However, despite these efforts and the amount, Pakistan has been unable to eradicate polio.
+<br><br>
+<img src="./gfx/polio_vaccinations.jpg" width="120%" height="auto" alt="photo caption"/>
 <br><br>
 After a meeting last month with American billionaire philanthropist Bill Gates in Islamabad last week, Pakistan’s PM Shehbaz Sharif said the government “remains steadfast” in its aim to eradicate polio.
 <br><br>
