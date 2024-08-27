@@ -338,7 +338,6 @@ Resistance to the polio immunisation drive grew in Pakistan after the CIA, a Uni
 <br><br>
 Misinformation linked to religious beliefs has also been spread, claiming that the vaccine contains traces of pork and alcohol, which are forbidden in Islam.
 <br><br>
-<br><br>
 Disinformation, agenda-driven campaigns, myths, community boycotts and mistrust in the government have also been factors behind refusals. 
 <br><br>
 In recent years, the Pakistan Taliban has also been behind the killings of health workers and security forces in the northern part of the country.
