@@ -20,7 +20,7 @@ var config = {
     Produced by <a href="https://twitter.com/ajlabs" target="_blank">@AJLabs/Alia Chughtai
     <br>Written by <a href="https://x.com/farasg?lang=en" target="_blank">Faras Ghani<br>
     <br>Illustrations by Muhammet Okur<br>
-    <br>Published: July 30, 2024
+    <br>Published: August 30, 2024
     <p><a href="https://www.aljazeera.com/aboutus/2011/01/20111168582648190.html" target="_blank">Terms and
     Conditions</a> | <a href="https://network.aljazeera.net/privacy/en" target="_blank">Privacy
     Policy</a> | <a href="https://network.aljazeera.net/cookies/en" target="_blank">Cookie
