@@ -281,6 +281,11 @@ Here are some of their stories:
             <img src="./gfx/hiratorkham.png" width="100%" height="auto" alt="photo caption"/>
 
             <h2> Saba - Torkham border </h2>
+<audio alt="Saba audio" controls>
+                <source src="./audio/SabaTorkham.ogg" type="audio/ogg">
+                <source src="./audio/SabaTorkham.mp3"  type="audio/mpeg">
+            </audio>
+
             Saba works at one of the main border crossings between Pakistan and Afghanistan. She says the border area is very active with a large influx of people. 
             The refusal rates are almost zero at the border given that it’s mandatory for anyone who wants to cross to either side.
             Saba says her team administers about 250 vaccinations each day and health workers are paid 600 to 900 Pakistani rupees (approximately $2-$3) daily. 
