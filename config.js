@@ -1,6 +1,5 @@
 var config = {
     style: "mapbox://styles/ajjerusalem/clty7j93i01ft01nrbnxl0frh",
-    // style: 'mapbox://styles/ajjerusalem/cl5p75i0y001b14ru8e4goiff',
     accessToken:
         "pk.eyJ1IjoiYWpqZXJ1c2FsZW0iLCJhIjoiY2l4b2t3N2lyMDAxMzJxcHMwZ3IzOWN1OSJ9.cxZW0ZgGPFDZpc_-JtRBxg",
     showMarkers: false,
