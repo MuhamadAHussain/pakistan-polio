@@ -16,7 +16,6 @@ var config = {
     subtitle: "More than 350,000 officials are part of Pakistan’s fight against polio. Most are field workers who go from door to door in testing conditions to administer oral vaccines.",
     byline: "",
     footer: `
-
     Produced by <a href="https://twitter.com/ajlabs" target="_blank">@AJLabs/Alia Chughtai
     <br>Written by <a href="https://x.com/farasg?lang=en" target="_blank">Faras Ghani<br>
     <br>Illustrations by Muhammet Okur<br>
@@ -34,11 +33,8 @@ var config = {
             hidden: false,
             title: "",
             description: `
-
-
-
           <span class="text-left">
-
+          <br><br>
 Ayesha Raza is a 35-year-old polio survivor and health worker in the government-run polio eradication programme in the eastern Pakistani city of Lahore.
 <br><br>
 Her condition is deteriorating with age, she says. She experiences random numbness in her arms and legs, and she cannot recall how many times she has fallen on the road.
@@ -54,7 +50,7 @@ She has been shouted at, had gates slammed shut in her face and been ridiculed. 
 “I have polio. I feel weak. I have to walk for kilometres on end every day during the campaign. That’s my job. But I need to make sure these kids do not go through what I have gone through.”
 <br><br>
 <h2> Challenges and obstacles </h2>
-<br><br>
+<br>
 Some 350km (218 miles) away in Multan, Razia Bibi, 48, is fighting a different type of obstacle.
 Among other healthcare work, she has been administering polio vaccines since 1996. But when she recently learned how to ride a motorcycle, residents went to her brother to complain, showing their displeasure at the sight of a woman on the motorbike.
 <br><br>
@@ -83,7 +79,6 @@ The issues do not stop at threats. At least 102 polio field workers and security
 Some spend long hours on the streets, often toiling in the heat or the cold as they deliver the vaccines. For others, it’s a mission to help eradicate polio in Pakistan.
 <br><br>
 Here are some of their stories:
-
           </span>
            `,
             //   <img class="isit" src="./gfx/pakistanbm_min.jpg" width="100%" height="auto" alt="mobile"/>
@@ -108,21 +103,18 @@ Here are some of their stories:
             title: "",
             description: `
             <span class="text-left">
-            <img src="./gfx/Sidra.png" width="100%" height="auto" alt="photo caption"/>
-
-      <audio alt="Sidra audio" controls>
+            <img src="./gfx/sidraphoto.png" width="100%" height="auto" alt="photo caption"/>
+            <audio alt="Sidra audio" controls>
                 <source src="./audio/SidraPeshawarMap.ogg" type="audio/ogg">
                 <source src="./audio/SidraPeshawarMap.mp3"  type="audio/mpeg">
             </audio>
-
             <h2> Sidra - Peshawar </h2>
             Sidra, 32, started work on the polio eradication campaign in 2018 after her divorce. She says it’s “very difficult” to manage this work around her household responsibilities but wants to help the children and earn enough to provide a decent education for her young daughter. Due to her lack of education, Sidra says she was unable to find a job and, given the situation in Pakistan, she took up this role despite the money being “not enough”. 
-
             </span>
             `,
             location: {
                 center: [72.4830704, 33.9774079],
-                zoom: 7.5,
+                zoom: 7,
                 pitch: 0,
                 bearing: 0,
                 speed: 0.3,
@@ -141,7 +133,7 @@ Here are some of their stories:
             title: "",
             description: `
             <span class="text-left">
-            <img src="./gfx/ayeshalahore.png" width="100%" height="auto" alt="photo caption"/>
+            <img src="./gfx/ayeshalahorephoto.png" width="100%" height="auto" alt="photo caption"/>
 
 <audio alt="Ayesha audio" controls>
                 <source src="./audio/AyeshaLahoreMap.ogg" type="audio/ogg">
@@ -156,7 +148,7 @@ Here are some of their stories:
             `,
             location: {
                 center: [74.1695845, 31.4831276],
-                zoom: 7.5,
+                zoom: 7,
                 pitch: 0,
                 bearing: 0,
                 speed: 0.3,
@@ -175,7 +167,7 @@ Here are some of their stories:
             title: "",
             description: `
             <span class="text-left">
-            <img src="./gfx/Razia.png" width="100%" height="auto" alt="photo caption"/>
+            <img src="./gfx/raziaphoto.png" width="100%" height="auto" alt="photo caption"/>
 
             <audio alt="Razia audio" controls>
                 <source src="./audio/RaziaMultanMap.ogg" type="audio/ogg">
@@ -191,7 +183,7 @@ Here are some of their stories:
             `,
             location: {
                 center: [71.3922584, 30.1813788],
-                zoom: 7.5,
+                zoom: 7,
                 pitch: 0,
                 bearing: 0,
                 speed: 0.3,
@@ -210,7 +202,7 @@ Here are some of their stories:
             title: "",
             description: `
             <span class="text-left">
-            <img src="./gfx/amirkarachi.png" width="100%" height="auto" alt="photo caption"/>
+            <img src="./gfx/amirkarachiphoto.png" width="100%" height="auto" alt="photo caption"/>
 
             <h2> Amir - Karachi </h2>
             Thirty-three-year-old Amir is a polio survivor who lives in Karachi. 
@@ -218,7 +210,7 @@ Here are some of their stories:
             He was shoved and slapped during one campaign. In another, a father who refused vaccination for his children threatened to kill Amir if he saw him in the area again.
             However, Amir says he has persisted with the campaign because “it’s very important that we save someone else’s kid even if I was not able to take those drops as a kid”.
             <br><br>
-             <video source src="./video/AMIR.mp4" type="video/mp4" controls="controls" width="100%" height="auto"/>
+             <video source src="./video/amirvideo.mp4" type="video/mp4" controls="controls" width="100%" height="auto"/>
             </span>
 
            
@@ -228,8 +220,9 @@ Here are some of their stories:
 
             `,
             location: {
-                center: [67.3317119, 24.525162],
-                zoom: 7.5,
+                center: [67.3317119, 25.225162],
+                
+                zoom: 7,
                 pitch: 0,
                 bearing: 0,
                 speed: 0.3,
@@ -248,19 +241,19 @@ Here are some of their stories:
             title: "",
             description: `
             <span class="text-left">
-            <img src="./gfx/gulnazkarachi.png" width="100%" height="auto" alt="photo caption"/>
+            <img src="./gfx/gulnazkarachiphoto.png" width="100%" height="auto" alt="photo caption"/>
            
             <h2> Gulnaz - Karachi </h2>
             
             Gulnaz’s sister-in-law and niece were shot dead by unknown gunmen during a polio campaign in 2012. She was close to giving up but then told herself that, “There will always be obstacles in life when you’re trying to do something good.” That thought spurred her on and, despite the taunts and hooting, Gulnaz stuck to her aim of trying to reach the maximum number of children so that no “innocent flower [child]” ever has to deal with the poliovirus.
 
             <br><br>
-             <video source src="./video/GULNAZ.mp4" type="video/mp4" controls="controls" width="100%" height="auto"/>
+             <video source src="./video/gulnazvideo.mp4" type="video/mp4" controls="controls" width="100%" height="auto"/>
             </span>
             `,
             location: {
                 center: [67.3317119, 25.525162],
-                zoom: 7.5,
+                zoom: 7,
                 pitch: 0,
                 bearing: 0,
                 speed: 0.3,
@@ -278,7 +271,7 @@ Here are some of their stories:
             hidden: false,
             description: `
             <span class="text-left">
-            <img src="./gfx/hiratorkham.png" width="100%" height="auto" alt="photo caption"/>
+            <img src="./gfx/hiratorkhamphoto.png" width="100%" height="auto" alt="photo caption"/>
 
             <audio alt="Saba audio" controls>
                 <source src="./audio/SabaTorkham.ogg" type="audio/ogg">
@@ -294,7 +287,7 @@ Here are some of their stories:
             `,
             location: {
                 center: [71.4350415, 34.3189943],
-                zoom: 7.5,
+                zoom: 7,
                 pitch: 0,
                 bearing: 0,
                 speed: 0.3,
@@ -319,7 +312,7 @@ Pakistan is one of only two countries in the world where poliovirus is still end
 <br><br>
 The two countries share a 2,611km (1,622 miles) long border.
 <br><br>
-<img src="./gfx/bordercrossingsAFPAK.jpg" width="120%" height="auto" alt="photo caption"/>
+<img src="./gfx/bordercrossings.jpg" width="120%" height="auto" alt="photo caption"/>
 <br><br>
 Since 2015, Pakistan has reported 366 polio cases, including 16 this year - all of the YB3A strain which has come in from Afghanistan. 
 <br><br>
@@ -362,7 +355,7 @@ Apart from the physical attacks, polio workers have also been targets of verbal 
 <br><br>
 Health authorities in Pakistan have listed seven districts classified as “endemic” in the country. All seven lie in the northwestern Khyber Pakhtunkhwa province where officials say the security situation has been the biggest obstacle in reaching the target audience.
 <br><br>
-<img src="./gfx/polioendemicPK.jpg" width="100%" height="auto" alt="photo caption"/>
+<img src="./gfx/polioendemic.jpg" width="100%" height="auto" alt="photo caption"/>
 <br><br>
 Marginalised communities have also resorted to boycotting the campaigns, demanding better civil services and infrastructure, including roads, schools and hospitals, from the government before allowing the health workers to carry out work in their areas.
 <br><br>
@@ -397,7 +390,7 @@ In total, in the decade from 2013 to 2023, authorities managed to administer mor
 Despite this, Pakistan has so far been unable to eradicate polio.
 <br><br>
 <img src="./gfx/polio_vaccinations.jpg" width="120%" height="auto" alt="photo caption"/>
-<br><br>
+<br>
 After a meeting with American billionaire philanthropist Bill Gates in Islamabad in June, Pakistan’s PM Shehbaz Sharif said the government “remains steadfast” in its aim to eradicate polio.
 <br><br>
 Baig, the former NEOC chief, previously told Al Jazeera that the aim was to make Pakistan polio-free by 2026.
@@ -428,34 +421,34 @@ WHO’s Jafari says: “It is now a matter of getting to these final, hard-to-re
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="./img/img1.jpeg" alt="1st slide">
+      <img class="d-block w-100" src="./img/img1.jpg" alt="1st slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="./img/img2.jpeg" alt="2nd slide">
+      <img class="d-block w-100" src="./img/img2.jpg" alt="2nd slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="./img/img3.jpeg" alt="3rd slide">
+      <img class="d-block w-100" src="./img/img3.jpg" alt="3rd slide">
     </div>
     <div class="carousel-item">
-    <img class="d-block w-100" src="./img/img4.jpeg" alt="4th slide">
+    <img class="d-block w-100" src="./img/img4.jpg" alt="4th slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="./img/img5.jpeg" alt="5th slide">
+      <img class="d-block w-100" src="./img/img5.jpg" alt="5th slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="./img/img6.jpeg" alt="6th slide">
+      <img class="d-block w-100" src="./img/img6.jpg" alt="6th slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="./img/img7.jpeg" alt="7th slide">
+      <img class="d-block w-100" src="./img/img7.jpg" alt="7th slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="./img/img8.jpeg" alt="8th slide">
+      <img class="d-block w-100" src="./img/img8.jpg" alt="8th slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="./img/img9.jpeg" alt="9th slide">
+      <img class="d-block w-100" src="./img/img9.jpg" alt="9th slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="./img/img10.jpeg" alt="10th slide">
+      <img class="d-block w-100" src="./img/img10.jpg" alt="10th slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">

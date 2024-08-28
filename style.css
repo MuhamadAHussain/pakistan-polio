@@ -18,7 +18,7 @@ section{
 
 
 #header>h2{
-    width:80%;
+    width:95%;
     margin:0 auto !important;
 }
 
@@ -304,7 +304,8 @@ em{
 
 #header h1 {
     margin-top: 0;
-    padding:20px;
+    padding:10px;
+    margin: 0 auto;
 }
 
 #footer {
@@ -426,6 +427,15 @@ audio{
             width: 70vw;
             margin: 0 auto;
             margin-bottom:20px;
+    }
+    h1{
+        width: 80vw;
+        margin: 0 auto;
+    }
+
+    #header>h2{
+        width:70%;
+        margin:0 auto !important;
     }
     .centered div img{
         padding:1px;
@@ -725,6 +735,14 @@ h5 {
             width: 70vw;
             margin: 0 auto;
     }
+    h1{
+        width: 80vw;
+        margin: 0 auto;
+    }
+    #header>h2{
+        width:70%;
+        margin:0 auto !important;
+    }
 }
 
 #identifier-0x .dark, #identifier-endx .dark{
@@ -740,6 +758,10 @@ h5 {
     .centered div em, .centered div p, .centered div img, .centered div div, .centered article{
         width: 45vw;
         margin: 0 auto;
+}
+h1{
+    width: 55vw;
+    margin: 0 auto;
 }
 .centered div img{
     padding:1px;
@@ -852,6 +874,10 @@ h5 {
         width: 40vw;
         margin: 0 auto;
 }
+h1{
+    width: 50vw;
+    margin: 0 auto;
+}
 #header>h2{
     width:45%;
     margin:0 auto !important;
@@ -862,6 +888,10 @@ h5 {
 .centered div em, .centered div p, .centered div img, .centered div div, .centered article{
         width: 35vw;
         margin: 0 auto;
+}
+h1{
+    width: 45vw;
+    margin: 0 auto;
 }
 
 #header>h2{
