@@ -105,7 +105,7 @@ section{
 } */
 
 .black{
-    color:#1B1B18;
+    color:#1E262D;
 }
 #bean{
     position: fixed;
@@ -194,7 +194,7 @@ h3 {
 
 .disclaimer{
     position:fixed;
-    background:#1B1B18;
+    background:#1E262D;
     font-size:12px;
     text-align: right;
     padding:3px 10px;
@@ -240,7 +240,7 @@ em{
   } */
 
   .bgimg-1{
-    background-image: linear-gradient(to bottom, rgba(0, 30, 60, 1) 0%, rgba(0, 30, 60, 0.1) 40%), url("./gfx/posterimage.jpg");
+    background-image: linear-gradient(to bottom, rgba(30, 38, 45, 1) 0%, rgba(30, 38, 45, 0.1) 40%), url("./gfx/posterimage.jpg");
     min-height: 800px;
 
   }
@@ -285,7 +285,7 @@ em{
     min-height: 100%;
     position: relative;
     z-index: 5;
-    background: linear-gradient(0deg,  rgba(27, 26, 25, 1) 0%, rgba(27, 26, 25, 0.1) 60%), url("./gfx/posterimage.jpg");
+    background: linear-gradient(0deg,  rgba(30, 38, 45, 1) 0%, rgba(30, 38, 45, 0.2) 20%, rgba(30, 38, 45, 0.5) 70%, rgba(30, 38, 45, 1) 100%), url("./gfx/posterimage.jpg");
     background-color: #040218;
     background-size: cover;
     background-position: 50% 40%;
@@ -318,7 +318,7 @@ em{
     font-size: 16px;
     position: relative;
     z-index: 5;
-    background: #1B1B18;
+    background: #1E262D;
 }
 #footer p{
     padding:20px;
@@ -746,7 +746,7 @@ h5 {
 }
 
 #identifier-0x .dark, #identifier-endx .dark{
-    background: #1B1B18;
+    background: #1E262D;
     padding-bottom:10px;
 }
 
