@@ -43,7 +43,7 @@ Despite her health issues, Ayesha, who has an eight-month-old daughter, works in
 But some people have not been receptive.
 <br><br>
 <img src="./img/IMG_4429.jpg" width="100%" height="auto" alt="photo caption"/>
-<br><br>
+<br>
 She has been shouted at, had gates slammed shut in her face and been ridiculed. Work is tiring and her employers have refused to provide any assistance, given her condition. But Ayesha feels that in addition to being able to provide for her family financially, she has a moral responsibility.
 <br><br>
 “Initially, I used to curse myself for taking up this job,” she told Al Jazeera. “People would just slam the door in my face without even talking to me. I used to get angry. Later I realised that, for me, it’s more than a job. I tell parents they will never realise how I’m feeling every day [because of polio]. And the two drops [of polio vaccine] I give to their kids will help them in the end.
@@ -51,8 +51,9 @@ She has been shouted at, had gates slammed shut in her face and been ridiculed. 
 “I have polio. I feel weak. I have to walk for kilometres on end every day during the campaign. That’s my job. But I need to make sure these kids do not go through what I have gone through.”
 <br><br>
 <img src="./img/Ayesha_lhr.jpg" width="100%" height="auto" alt="photo caption"/>
-<h2> Challenges and obstacles </h2>
 <br>
+<h2> Challenges and obstacles </h2>
+
 Some 350km (218 miles) away in Multan, Razia Bibi, 48, is fighting a different type of obstacle.
 Among other healthcare work, she has been administering polio vaccines since 1996. But when she recently learned how to ride a motorcycle, residents went to her brother to complain, showing their displeasure at the sight of a woman on the motorbike.
 <br><br>
@@ -67,7 +68,7 @@ The incident did not deter Razia because, she says, she has become thick-skinned
 Ayesha and Razia are just three of more than 350,000 officials who have been part of Pakistan’s mission to eradicate polio. Many like them have also been harassed, ridiculed, taunted and threatened.
 <br><br>
 <img src="./img/IMG_2882.jpg" width="100%" height="auto" alt="photo caption"/>
-<br><br>
+<br>
 Amir, a 33-year-old polio survivor based in the southern city of Karachi, is among them. 
 <br><br>
 Unable to finish higher education because of the costs, Amir first took up a job as a computer operator before signing up with the polio eradication campaign.
@@ -79,7 +80,7 @@ While delivering vaccines in the field, he was shoved and slapped by one father 
 “These are testing conditions, especially in the heat,” Amir told Al Jazeera. “But this is something I need to do. If I had taken those two drops as a kid, I wouldn’t have been like this. Now, it’s very important that we save someone else’s kid. And that’s what I tell people I visit to try and convince them.”
 <br><br>
 <img src="./img/IMG_4446.jpg" width="100%" height="auto" alt="photo caption"/>
-<br><br>
+<br>
 The issues do not stop at threats. At least 102 polio field workers and security officials accompanying the teams have been killed by the Pakistan Taliban and other armed groups during the campaigns.
 <br><br>
 Some spend long hours on the streets, often toiling in the heat or the cold as they deliver the vaccines. For others, it’s a mission to help eradicate polio in Pakistan.
@@ -318,11 +319,11 @@ Pakistan is one of only two countries in the world where poliovirus is still end
 <br><br>
 The two countries share a 2,611km (1,622 miles) long border.
 <br><br>
-<img src="./gfx/bordercrossings.jpg" width="120%" height="auto" alt="photo caption"/>
-<br><br>
+<img src="./gfx/bordercrossings.jpg" width="100%" height="auto" alt="photo caption"/>
+<br>
 Since 2015, Pakistan has reported 366 polio cases, including 16 this year - all of the YB3A strain which has come in from Afghanistan. 
 <br><br>
-<img src="./gfx/number_poliocases.jpg" width="120%" height="auto" alt="photo caption"/>
+<img src="./gfx/number_poliocases.jpg" width="100%" height="auto" alt="photo caption"/>
 <br><br>
 The figure has come down from the 20,000 per year that have been reported by officials who say that the numbers are falling due to increased surveillance and sampling, 
 and there remains just one local cluster of the poliovirus in Pakistan – the YB3C - cases of which were last discovered in November 2023.
@@ -362,7 +363,7 @@ Apart from the physical attacks, polio workers have also been targets of verbal 
 Health authorities in Pakistan have listed seven districts classified as “endemic” in the country. All seven lie in the northwestern Khyber Pakhtunkhwa province where officials say the security situation has been the biggest obstacle in reaching the target audience.
 <br><br>
 <img src="./gfx/polioendemic.jpg" width="100%" height="auto" alt="photo caption"/>
-<br><br>
+<br>
 Marginalised communities have also resorted to boycotting the campaigns, demanding better civil services and infrastructure, including roads, schools and hospitals, from the government before allowing the health workers to carry out work in their areas.
 <br><br>
 Aidan O’Leary, the late WHO director for polio eradication, told Al Jazeera recently that these communities are “essentially using whatever means they can to leverage for other services”. 
@@ -374,7 +375,7 @@ Aidan O’Leary, the late WHO director for polio eradication, told Al Jazeera re
 When it comes to workers, in addition to the demanding conditions and hostility, they say low pay, salary delays, lack of assistance and compassion for those who are polio survivors themselves are some of the factors that they face.
 <br><br>
 <img src="./img/IMG_4476.jpg" width="100%" height="auto" alt="photo caption"/>
-<br><br>
+<br>
 Some health workers told Al Jazeera they get paid as little as 1,360 rupees per day (about $5) for at least eight hours of work. Catch-up days when they go out in the field after the end of the campaign to vaccinate children who were missed are not paid, they said.
 <br><br>
 Some polio survivors now working on the campaign do not receive help with transport or health benefits despite their conditions, leaving them to walk in poor weather and tough terrain to carry out their work.
@@ -397,7 +398,7 @@ In total, in the decade from 2013 to 2023, authorities managed to administer mor
 <br><br>
 Despite this, Pakistan has so far been unable to eradicate polio.
 <br><br>
-<img src="./gfx/polio_vaccinations.jpg" width="120%" height="auto" alt="photo caption"/>
+<img src="./gfx/polio_vaccinations.jpg" width="100%" height="auto" alt="photo caption"/>
 <br>
 After a meeting with American billionaire philanthropist Bill Gates in Islamabad in June, Pakistan’s PM Shehbaz Sharif said the government “remains steadfast” in its aim to eradicate polio.
 <br><br>

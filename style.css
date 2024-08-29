@@ -285,10 +285,10 @@ em{
     min-height: 100%;
     position: relative;
     z-index: 5;
-    background: linear-gradient(0deg,  rgba(30, 38, 45, 1) 0%, rgba(30, 38, 45, 0.2) 20%, rgba(30, 38, 45, 0.5) 70%, rgba(30, 38, 45, 1) 100%), url("./gfx/posterimage.jpg");
+    background: linear-gradient(0deg,  rgba(30, 38, 45, 1) 0%, rgba(30, 38, 45, 0.2) 15%, rgba(30, 38, 45, 0.2) 60%, rgba(30, 38, 45, 0.5) 100%), url("./gfx/posterimage.jpg");
     background-color: #040218;
     background-size: cover;
-    background-position: 50% 40%;
+    background-position: 51% 20%;
     /* padding-top: 70px; */
 }
 
@@ -488,12 +488,12 @@ audio{
 h1 {
     color: #ffffff;
     font-weight: 550;
-    font-size: 2.1em;
+    font-size: 1.8em;
     font-family: 'Playfair Display', serif;
 }
 
 h2 {
-    font-size: 1.5em;
+    font-size: 1.3em;
     font-weight: 600;
     font-family: 'Playfair Display', serif;
     text-align:left;
@@ -616,11 +616,11 @@ h5 {
     }
 
     h1 {
-        font-size: 2.4em;
+        font-size: 2.1em;
     }
 
     h2 {
-        font-size: 1.5em;
+        font-size: 1.4em;
     }
 
 }
@@ -646,11 +646,11 @@ h5 {
     }
 
     h1 {
-        font-size: 3em;
+        font-size: 2.4em;
     }
 
     h2 {
-        font-size: 1.6em;
+        font-size: 1.5em;
     }
 
     .step p {
@@ -703,11 +703,11 @@ h5 {
     }
 
     h1 {
-        font-size: 3.2em;
+        font-size: 3em;
     }
 
     h2 {
-        font-size: 1.7em;
+        font-size: 1.6em;
     }
 
     .step p {
