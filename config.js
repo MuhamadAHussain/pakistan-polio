@@ -16,7 +16,8 @@ var config = {
     byline: "",
     footer: `
     Produced by <a href="https://twitter.com/ajlabs" target="_blank">@AJLabs/Alia Chughtai
-    <br>Written by <a href="https://x.com/farasg?lang=en" target="_blank">Faras Ghani<br>
+    <br>Text, photos and videos by <a href="https://x.com/farasg?lang=en" target="_blank">Faras Ghani<br>
+    <br>Additional reporting by Zeenat Khan and Azmat Gul<br>
     <br>Illustrations by Muhammet Okur<br>
     <br>Published: August 30, 2024
     <p><a href="https://www.aljazeera.com/aboutus/2011/01/20111168582648190.html" target="_blank">Terms and
@@ -285,7 +286,7 @@ Here are some of their stories:
                 <source src="./audio/SabaTorkham.mp3"  type="audio/mpeg">
             </audio>
 
-            <h2> Saba - Torkham Border </h2>
+            <h2> Saba* - Torkham Border </h2>
 
             Saba works at one of the main border crossings between Pakistan and Afghanistan. She says the border area is very active with a large influx of people. 
             The refusal rates are almost zero at the border given that it’s mandatory for anyone who wants to cross to either side.
@@ -407,6 +408,7 @@ Baig, the former NEOC chief, previously told Al Jazeera that the aim was to make
 WHO’s Jafari says: “It is now a matter of getting to these final, hard-to-reach populations. When you start reaching these populations, progress happens very fast.”
 <br><br>
 
+*Some names have been changed to protect anonymity
 
 
 
