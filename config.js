@@ -39,7 +39,7 @@ Ayesha Raza is a 35-year-old polio survivor and health worker in the government-
 <br><br>
 Her condition is deteriorating with age, she says. She experiences random numbness in her arms and legs, and she cannot recall how many times she has fallen on the road.
 <br><br>
-Despite her health issues, Ayesha, who has an eight-month-old daughter, works in the field, going from door to door administering oral polio vaccines to children aged six and under at up to 80 houses in her area every month.
+Despite her health issues, Ayesha, who has an eight-month-old daughter, works in the field, going from door to door administering oral polio vaccines to children aged six and below at up to 80 houses in her area every month.
 <br><br>
 But some people have not been receptive.
 <br><br>
@@ -55,14 +55,13 @@ She has been shouted at, had gates slammed shut in her face and been ridiculed. 
 <br>
 <h2> Challenges and obstacles </h2>
 
-Some 350km (218 miles) away in Multan, Razia Bibi, 48, is fighting a different type of obstacle.
-Among other healthcare work, she has been administering polio vaccines since 1996. But when she recently learned how to ride a motorcycle, residents went to her brother to complain, showing their displeasure at the sight of a woman on the motorbike.
+Some 350km (218 miles) away, in Multan, Razia Bibi, 48, is fighting a different type of obstacle. Among other healthcare work, she has been administering polio vaccines since 1996. But when she recently learned how to ride a motorcycle, residents went to her brother to complain, showing their displeasure at the sight of a woman on the motorbike.
 <br><br>
 “It’d take a long time to reach the areas which I was covering, almost an hour and a half. So I bought a motorcycle and asked my son to teach me how to ride it,” Razia said.
 <br><br>
 “It’s not only for the polio campaigns but also helps me take pregnant women for checkups. It was then that people would just stare at me. They just couldn’t see a woman riding a bike.” 
 <br><br>
-Thankfully, her family is supportive of what she does and her brother brushed off the complaints.
+Thankfully, her family is supportive of what she does, and her brother brushed off the complaints.
 <br><br>
 The incident did not deter Razia because, she says, she has become thick-skinned in the face of obstacles that have been part of this work.
 <br><br>
@@ -150,7 +149,8 @@ Here are some of their stories:
 
             <h2> Ayesha - Lahore </h2>
 
-            The 35-year-old mother of one is a polio survivor based in Lahore. Because of polio, she does not have the energy levels needed to administer vaccines on foot during campaigns. Her husband is unemployed but financial needs have not deterred Ayesha from working in the field, going from door to door and vaccinating children in up to 80 households every month.
+            The 35-year-old mother of one is a polio survivor based in Lahore. Because of polio, she does not have the energy levels needed to administer vaccines on foot during campaigns. Her husband is unemployed, but financial needs
+            have not deterred Ayesha from working in the field, going from door to door and vaccinating children in up to 80 households every month.
 
             </span>
             `,
@@ -253,8 +253,9 @@ Here are some of their stories:
            
             <h2> Gulnaz - Karachi </h2>
             
-            Gulnaz’s sister-in-law and niece were shot dead by unknown gunmen during a polio campaign in 2012. She was close to giving up but then told herself that, “There will always be obstacles in life when you’re trying to do something good.” That thought spurred her on and, despite the taunts and hooting, Gulnaz stuck to her aim of trying to reach the maximum number of children so that no “innocent flower [child]” ever has to deal with the poliovirus.
-
+            Gulnaz’s sister-in-law and niece were shot dead by unknown gunmen during a polio campaign in 2012. She was close to giving up but then told herself, 
+            “There will always be obstacles in life when you’re trying to do something good.” That thought spurred her on and, despite the taunts and hooting, 
+            Gulnaz stuck to her aim of trying to reach the maximum number of children so that no “innocent flower [child]” ever has to deal with the poliovirus.
             <br><br>
              <video source src="./video/gulnazvideo.mp4" type="video/mp4" controls="controls" width="100%" height="auto"/>
             </span>
@@ -400,7 +401,7 @@ Despite this, Pakistan has so far been unable to eradicate polio.
 <br><br>
 <img src="./gfx/polio_vaccinations.jpg" width="100%" height="auto" alt="photo caption"/>
 <br>
-After a meeting with American billionaire philanthropist Bill Gates in Islamabad in June, Pakistan’s PM Shehbaz Sharif said the government “remains steadfast” in its aim to eradicate polio.
+After a meeting with American billionaire philanthropist Bill Gates in Islamabad in June, Pakistan’s Prime Minister Shehbaz Sharif said the government “remains steadfast” in its aim to eradicate polio.
 <br><br>
 Baig, the former NEOC chief, previously told Al Jazeera that the aim was to make Pakistan polio-free by 2026.
 <br><br>
