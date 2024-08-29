@@ -285,7 +285,11 @@ em{
     min-height: 100%;
     position: relative;
     z-index: 5;
+    /* with gradient */
     background: linear-gradient(0deg,  rgba(30, 38, 45, 1) 0%, rgba(30, 38, 45, 0.2) 15%, rgba(30, 38, 45, 0.2) 60%, rgba(30, 38, 45, 0.5) 100%), url("./gfx/posterimage.jpg");
+    /* without gradient */
+    /* background: linear-gradient(0deg,  rgba(30, 38, 45, 1) 0%, rgba(30, 38, 45, 0.2) 15%, rgba(30, 38, 45, 0) 60%, rgba(30, 38, 45, 0) 100%), url("./gfx/posterimage.jpg"); */
+
     background-color: #040218;
     background-size: cover;
     background-position: 51% 20%;
