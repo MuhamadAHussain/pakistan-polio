@@ -407,7 +407,7 @@ Baig, the former NEOC chief, previously told Al Jazeera that the aim was to make
 WHO’s Jafari says: “It is now a matter of getting to these final, hard-to-reach populations. When you start reaching these populations, progress happens very fast.”
 <br><br>
 
-*Some names have been changed to protect anonymity
+*Some names have been changed to protect identity
 
 
 
