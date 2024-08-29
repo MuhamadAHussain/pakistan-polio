@@ -325,7 +325,7 @@ The two countries share a 2,611km (1,622 miles) long border.
 <br>
 Since 2015, Pakistan has reported 366 polio cases, including 16 this year - all of the YB3A strain which has come in from Afghanistan. 
 <br><br>
-<img src="./gfx/number_poliocases.jpg" width="100%" height="auto" alt="photo caption"/>
+<img src="./gfx/number_poliocases2.png" width="100%" height="auto" alt="photo caption"/>
 <br><br>
 The figure has come down from the 20,000 per year that have been reported by officials who say that the numbers are falling due to increased surveillance and sampling, 
 and there remains just one local cluster of the poliovirus in Pakistan – the YB3C - cases of which were last discovered in November 2023.
