@@ -384,11 +384,10 @@ Some polio survivors now working on the campaign do not receive help with transp
 <br><br>
 “We have to run the house on credit, taking loans from friends and family,” she said. “We’re always in the red. I just think that, given the work we do, the government needs to look after us better, just like we’re doing for the children of the nation. I have a duty towards these children but I also need to think about my own kids.”
 <br><br>
+<h2>Reaching the hard to reach</h2>
+<br><br>
 Just over 1,600km (994 miles) to the north at the Torkham border, one of the main crossing points between Pakistan and Afghanistan, the issues facing these workers remain the same.
 <br><br>
-
-<h2>Reaching the hard to reach</h2>
-
 At the Torkham border, the main point of transit for travellers and goods between Pakistan and landlocked Afghanistan, a permanent vaccination point has been set while health workers are also present at security checkpoints leading to the border.
 <br><br>
 But a female worker administering vaccinations there lamented the lack of facilities for women at the location, including toilets and prayer rooms, “further exacerbating the challenges we already face while working in a male-dominated space”, she explained.
