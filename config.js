@@ -19,7 +19,7 @@ var config = {
     <br>Text, photos and videos by <a href="https://x.com/farasg?lang=en" target="_blank">Faras Ghani<br>
     <br>Additional reporting by Zeenat Khan and Azmat Gul<br>
     <br>Illustrations by Muhammet Okur<br>
-    <br>Published: August 30, 2024
+    <br>Published: August 31, 2024
     <p><a href="https://www.aljazeera.com/aboutus/2011/01/20111168582648190.html" target="_blank">Terms and
     Conditions</a> | <a href="https://network.aljazeera.net/privacy/en" target="_blank">Privacy
     Policy</a> | <a href="https://network.aljazeera.net/cookies/en" target="_blank">Cookie
@@ -327,8 +327,7 @@ Since 2015, Pakistan has reported 366 polio cases, including 16 this year - all 
 <br><br>
 <img src="./gfx/number_poliocases2.png" width="100%" height="auto" alt="photo caption"/>
 <br><br>
-The figure has come down from the 20,000 per year that have been reported by officials who say that the numbers are falling due to increased surveillance and sampling, 
-and there remains just one local cluster of the poliovirus in Pakistan – the YB3C - cases of which were last discovered in November 2023.
+Officials say the numbers are falling due to increased surveillance and sampling, and there remains just one local cluster of the poliovirus in Pakistan – the YB3C - cases of which were last discovered in November 2023.
 <br><br>
 In addition to human cases, wild poliovirus type 1 (WPV1) has frequently been detected in environmental samples taken across the country. This year, WPV1 has been found in 62 of Pakistan’s 166 districts.
 <br><br>
